@@ -5,7 +5,7 @@ uses **next.js** and **tailwindcss**
 ## Hosting
 
 Currently hosted on [Netlify](https://www.netlify.com/with/nextjs/) (yippee free hosting) \
-[xpugno.netlify.com](xpugno.netlify.com) [![Netlify Status](https://api.netlify.com/api/v1/badges/d5443827-465e-49a1-9b2e-987b0184dd95/deploy-status)](https://app.netlify.com/sites/xpugno/deploys) 
+https://xpugno.netlify.com/ [![Netlify Status](https://api.netlify.com/api/v1/badges/d5443827-465e-49a1-9b2e-987b0184dd95/deploy-status)](https://app.netlify.com/sites/xpugno/deploys) 
 
 
 ## Features
